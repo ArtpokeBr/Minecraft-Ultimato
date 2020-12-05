@@ -12,7 +12,7 @@ Para ter mais informações de como instalar o modpack [veja esse vídeo](https:
  Basta acessar [github](https://github.com/ArtpokeBr/Minecraft-Ultimato/issues) e clicar em `New issue` e pronto coloque um título, e a descrição se possível anexe uma imagem. PS: não esqueça de verificar se já não existe uma issue como a que você pretende criar.
 
 ## Sobre os requisitos minimos de hardware para rodar o modpack:
-* memória ram: o minimo é 5 GB. E o recomendado é de 8 GB+;
+* memória ram: o minimo é 5 GB. E o recomendado é de 6 GB;
 * Processador: não temos gerações definidas, portanto fique avontade para testa.
     
 ## Sobre o optifine e replay mod:
