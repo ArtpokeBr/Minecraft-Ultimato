@@ -7,11 +7,6 @@ assignees: ArtpokeBr
 
 ---
 
----
-Nome: Reporte de Problema
-Sobre: Crashes ou Mecânicas não propositais, Erros de Script e outros problemas que você possa encontrar sobre o Minecraft Ultimato.
----
-
 **Nota**: Se você deseja suporte ao montar um servidor, que fique claro que eu, ArtpokeBr não sou o mais experiente com esses tipos de problemas!
 
 **Versão do Modpack:**
