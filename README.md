@@ -13,7 +13,7 @@ Para ter mais informações de como instalar o modpack [veja esse vídeo](https:
 
 ## Sobre os requisitos minimos de hardware para rodar o modpack:
 * memória ram: o minimo é 5 GB. E o recomendado é de 6 GB;
-* Processador: não temos gerações definidas, portanto fique avontade para testa.
+* Processador: não temos gerações definidas, portanto fique avontade para testar.
     
 ## Sobre o optifine e replay mod:
 Esses dois não são inclusos. Pois não estão na __Curse Forge__, eles são mods client-side
