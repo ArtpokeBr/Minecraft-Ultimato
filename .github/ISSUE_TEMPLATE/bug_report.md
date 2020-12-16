@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Padrão de Reportes de Problemas no Minecraft Ultimato!
+name: USE ESTA TEMPLATE PARA REPORTAR!
+about: Padrão de Reportes de Problemas no Minecraft Ultimato! (Seu problema será deletado se não usar corretamente).
 title: ''
 labels: ''
 assignees: ArtpokeBr
