@@ -1,0 +1,31 @@
+{
+    "name": "Tropicraft",
+    "icon": "tropicraft:cocktail",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ahh... A §6§oTropicraft§0... Sem dúvida uma dimensão relaxante e muito calma! aqui você poderá encontrar várias coisas que encontraria em uma região tropical e até mesmo mais!$(br2)O grande problema é que o meio de se entrar nesta dimensão é bem específico, não?"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/tropicraft.png"],
+            "border": "true",
+            "text": "§oUm local simplesmente ideal §opara tirar umas férias!"
+        },
+        {
+            "type": "spotlight",
+            "item": "tropicraft:cocktail",
+            "title": "§4§lAtenção!",
+            "text": "Fique muito atento pois para sair e entrar da §6§oTropicraft§0 você precisará de uma §lPiña §lColada§r!$(br2)Após você abrir o portal de entrada pela primeira vez, ou quando for voltar, mergulhe na água do Portal e beba sua Piña Colada!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/GetToTropicraft.png"],
+            "border": "true",
+            "text": "Beba EXATAMENTE ao por do sól uma Piña Colada e esteja sentado numa cadeira de praia"
+        }
+    ]
+}

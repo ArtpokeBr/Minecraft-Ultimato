@@ -1,0 +1,30 @@
+{
+    "name": "Nether",
+    "icon": "minecraft:netherrack",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "O Nether não possui nenhuma mudança extremamente significativa, Apenas, Algumas melhorias no quesito Mobs, Minérios, e algumas estruturas básicas.$(br2)Uma Melhoria familiar é a adição de algumas das Features dos updates mais recentes no Nether Vanilla, como os fungos, Gramas e Até mesmo A Netherite!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/NetherBackport.png"],
+            "border": "true",
+            "text": "Lembrete: §8Netherite§0 é gerado exatamente como na 1.16."
+        },
+        {
+            "type": "text",
+            "text": "Uma outra melhoria significativa são os §cMinérios§0! que agora são gerados normalmente §cno Nether§0 também e possuem uma possibilidade de multiplicação em máquinas mais elevada do que os normalmente encontrados no Overworld!$(br2)E uma outra informação por fim, é que alguns Mobs interessantes podem ser encontrados no Nether, Fique atento e tome cuidado!$(br2)§c§oE eu preciso mesmo explicar §c§ocomo se vai para o Nether?"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/NetherDemons.png"],
+            "border": "true",
+            "title": "§4§m§oE o que você deseja?",
+            "text": "Sim, isso são demônios estilo Doom e aquilo é um Pigman Armado...."
+        }
+    ]
+}

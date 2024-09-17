@@ -1,0 +1,10 @@
+{
+	"name": "Diário do Thanos",
+	"landing_text": "Este Manual irá lhe ensinar §6tudo sobre as modificações feitas no Modpack§0, e outras dicas/informações importantes que você talvez precise!",
+	"subtitle": "§5Um guia de bolso Inevitável!",
+	"pause_game": true,
+	"version": 0,
+	"model": "patchouli:book_purple",
+	"book_texture": "patchouli:textures/gui/book_purple.png",
+	"show_progress": false
+}

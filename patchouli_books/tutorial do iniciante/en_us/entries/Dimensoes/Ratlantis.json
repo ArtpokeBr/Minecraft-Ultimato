@@ -1,0 +1,32 @@
+{
+    "name": "Ratlantis",
+    "icon": "rats:creative_cheese",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§6§oRatlantis§r§0 é uma dimensão totalmente única! dominada por §9Ratos§0, você poderá encontrar algumas peculiaridades nela... além de ser muito parecida com o Overworld! e Cuidado com os §9Piratas§0!$(br2)quem diria que além de proporcionar opções de automações, ratos poderiam oferecer uma dimensão também!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/Ratlantis.png"],
+            "border": "true",
+            "title": "§9§mNinha talibãããã...",
+            "text": "Um Local que já foi antes habitado por §9Ratlânteanos§0!"
+        },
+        {
+            "type": "spotlight",
+            "item": "rats:chunky_cheese_token",
+            "title": "Boa sorte...",
+            "text": "Primeiramente você precisará de um §6Chunky §6Cheese §6Token§0, que pode ser obtido de uma forma §5extremamente §5rara§0 através dos Ratos!$(br2)Uma das formas básicas é matar um §9rato§0 e torcer para que ele §9droppe§0.."
+        },
+        {
+            "type": "spotlight",
+            "item": "rats:rat_upgrade_aristocrat",
+            "title": "§mBurguês safado!",
+            "text": "E uma outra forma também é ter vários §6AristocRatos§0 na sua base, eles podem §9deixar cair §9aleatóriamente um §9fragmento de §9moeda§0, ou podem §cmatar§0 outras §centidades§0 para ter uma chance de §cdroppar §cfragmentos§0 também.$(br2)Para gerar o §1portal§0, clique com o §1botão§0 §1direito§0 usando o §1Token§0 (§4§lUso único§r§0)."
+        }
+    ]
+}

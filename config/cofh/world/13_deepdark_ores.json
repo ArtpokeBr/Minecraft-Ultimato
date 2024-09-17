@@ -1,0 +1,158 @@
+{
+"dependencies": "extrautils2",
+	"populate": {
+		"rock_crystal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 					
+					"name": "astralsorcery:blockcustomore", 					
+					"metadata": 0			
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 14
+			},
+			"cluster-count": 7,
+			"min-height": 1,
+			"max-height": 12,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-11325
+				]
+			}
+		},
+		"starmetal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 					 					
+					"name": "astralsorcery:blockcustomore", 					 					
+					"metadata": 1				 				
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 7
+			},
+			"cluster-count": 13,
+			"min-height": 35,
+			"max-height": 55,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-11325
+				]
+			}
+		},
+		"dimensional_shard": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 					 					
+					"name": "rftools:dimensional_shard_ore", 					 					
+					"metadata": 0				 				
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": 9,
+			"min-height": 17,
+			"max-height": 32,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-11325
+				]
+			}
+		},
+		"prosperity": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 					 					
+					"name": "mysticalagriculture:prosperity_ore", 					 					
+					"metadata": 0				 				
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 12
+			},
+			"cluster-count": 7,
+			"min-height": 15,
+			"max-height": 60,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-11325
+				]
+			}
+		},
+		"mana_infused": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 					 					
+					"name": "thermalfoundation:ore", 					 					
+					"metadata": 8 				 				
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 9
+			},
+			"cluster-count": 9,
+			"min-height": 10,
+			"max-height": 30,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-11325
+				]
+			}
+		},
+		"draconium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 					 					
+					"name": "draconicevolution:draconium_ore" 					 									 				
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 24
+			},
+			"cluster-count": 7,
+			"min-height": 1,
+			"max-height": 16,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-11325
+				]
+			}
+		},
+		"iridium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 					 					
+					"name": "thermalfoundation:ore", 					 					
+					"metadata": 7 				 				
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 7
+			},
+			"cluster-count": 10,
+			"min-height": 15,
+			"max-height": 35,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-11325
+				]
+			}
+		}
+	}
+}

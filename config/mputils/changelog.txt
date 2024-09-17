@@ -1,0 +1,40 @@
+§a§lVersion§r§f 2.4 Ultimato:
+
+§3§lMod updates§r§f:
+
+- All that were possible
+
+§b§lAdditions§r§f:
+
+- Universal Tweaks (Many Corrections and QOL stuff)
+- Akashic Tome (QOL feature)
+- MPUtils (Adds QOL stuff for me as a Dev)
+- CensoredASM (Many Corrections and Bugfixes)
+- Tweaked Excavation (QOL IE Addon)
+- Tweaked Petroleum (QOL IE Addon)
+- Just Enought Petroleum (QOL IE Addon)
+- Lootr (QOL specially for Servers)
+- JEI Utilities (QOL and more features to JEI/HEI)
+- Dank Null (QOL feature)
+- Endergy (QOL feature and expansion of EnderIO)
+- EnderIO Mekanism Conduits (QOL feature)
+
+§b§lRemovals§r§f:
+
+- Spark
+- Vanilla Fix
+- Attribute Fix
+- AI Improvements
+
+§2§lFixes§r§f:
+
+- Fixed the Void Portal not displaying its correct name since there's not a specific dimension for Ice and Fire anymore
+(Corrigido nome do portal do void já que não existe mais terra do dragões)
+
+- Removed Tools and Tables from Tinker's from JEI. This change decreases the load times for the Modpack.
+(Removido Ferramentas e Mesas prontas do JEI, reduz consideravelmente o tempo de load inicial)
+
+§5§lMiscellaneous§r§f:
+
+- Added a Recipe for the Near Infinite Storage Upgrade from Storage Drawers.
+(Adicionado Receita para o Upgrade de Armazenamento Infinito dos Drawers (não é o Criativo))

@@ -1,0 +1,25 @@
+{
+    "name": "Bem vindo!",
+    "icon": "minecraft:sapling",
+    "read_by_default": true,
+    "category": "intro",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(d)$(l)Seja Bem vindo!$()$(br2)Bem vindo ao Modpack do Minecraft Ultimato. Por agora, espero que aproveite as informações do guia, e no geral, o Modpack em si!$(br2)$(o)Simbora!"
+        },
+        {
+            "type": "text",
+            "text": "§6Fato interessante:§0 Fique atento ao livro pois possivelmente você poderá consunta-lo posteriormente para obter informações! $(br2)E Para que fique claro, este livro é dividido em categorias, que determinam os conteúdos em si, e dentro destas categorias estão capítulos, que irão se especificar mais ainda em determinado conteúdo relacionado á categoria!"
+        },
+        {
+            "type": "text",
+            "text": "Então como um todo, aproveite o Modpack e não se esqueça de passar lá no meu canal na twitch! $(l:http://www.twitch.tv/artpokebr)twitch.tv/artpokebr$(/l) e dizer “Eai, vim pelo Ultimato!” só de falar que você chegou lá por este livro que já será incrível! $(br2)§dAproveite! <3"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/power_rat.png"],
+            "border": "true"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Aether",
+    "icon": "aether_legacy:aether_portal_frame",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Nada como se aventurar no literal céu! sendo o Oposto do Nether, o Aether possui várias nuvems fofas, Moas para você fazer amizade e até mesmo estruturas para se explorar! por que não tentar?$(br2)Só não se esqueça de levar uma Elytra ou qualquer outro método de voo..."
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/AetherDimension.png"],
+            "border": "true",
+            "title": "§9§mNo céu tem pão?",
+            "text": "O Portal é feito assim como o do Nether, porém, usando Glowstone e §3água para acender."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Atum",
+    "icon": "atum:scarab",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "text", 
+            "text": "A §6§oAtum§r§0 é um lugar difícil de se viver, é um §6deserto§0 inexplorado totalmente cercado por §6tempestades de §6areia§0, bandidos, camelos e §6pirâmides com §6jóias§0 e um loot que pode ser desejado até mesmo pelos mais técnicos dos jogadores!$(br2)Primeiro, monte uma área 5x5 com Sandstone, faça um anel com 1 de altura nesta plataforma, e coloque pilares de 2 de altura."
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/AtumPortal.png"],
+            "border": "true",
+            "title": "§m§oOs gato pira!",
+            "text": "Deixe o meio vazio para poder ser preenchido com água, e droppe uma §6Scarab§0 na água!"
+        },
+        {
+            "type": "spotlight",
+            "item": "atum:scarab",
+            "title": "Não Entendeu?",
+            "text": "Caso tudo isso esteja parecendo confuso, eu separei este link no momento correto em que o Autor do Mod constrói o Portal em seu vídeo tutorial!$(br)$(l:https://youtu.be/QHGfcQfhRhw?t=26)Clique Aqui$(/l)$(br2)$(o)Me desculpe mas este tipo de estrutura é bem complicado de explicar $(playername)...$()"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/AtumPortalComplete.png"],
+            "border": "true"
+        }
+    ]
+}

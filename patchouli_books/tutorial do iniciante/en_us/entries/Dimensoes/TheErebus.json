@@ -1,0 +1,41 @@
+{
+    "name": "Erebus",
+    "icon": "erebus:portal",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Erebus, uma Dimensão repleta de Artrópodes, biomas interessantes e até mesmo Dungeons que podem guardar um item misterioso chamado §6§oAnimation Wand§0!$(br2)§3Espero que você não tenha §3nojinho dos Mobs desta §3dimensão!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/Erebus.png"],
+            "border": "true",
+            "text": "Para adentrar a dimensão, esteja preparado para fazer algumas coisinhas..."
+        },
+        {
+            "type": "spotlight",
+            "item": "erebus:altar_offering",
+            "title": "Iniciando",
+            "text": "Antes de poder fazer seu portal você precisará de um item especial de ativação, para faze-lo, faça primeiro o Altar de Oferendas!$(br2)Após faze-lo você precisará de §31 Diamante§0, §21 Esmeralda§0 e §duma Obsidian§0. Clique com o botão direito com esses itens no Altar para oferece-los, espere o resultado."
+        },
+        {
+            "type": "spotlight",
+            "item": "erebus:materials:38",
+            "title": "O Presente da Deusa",
+            "text": "Retire sua §6Gaean Gem§0 (Shift+Botão direito) do altar e use-a para craftar o §6Staff o §6Gaea§0! (Recomendo fazer 2).$(br2)Estamos quase prontos! agora você só precisa craftar um bloco chamado §6Gaean Keystone§0 e começar a montar a estrutura do portal!"
+        },
+        {
+            "type": "text",
+            "text": "Para montar o Portal em si, utilize §8Stone bricks§0 para fazer seus contornos e §2folhas§0 como preenchimento! após isso, posicione a Keystone próxima ao Portal e acione-o utilizando A §6Staff o §6Gaea§0 na Keystone!$(br2)Então, lembra que eu sugeri que você fizesse 2 §6Staff o §6Gaea§0? isto pois ao entrar na dimensão, você §4§lNECESSITARÁ da §4Staff§0 para ativar o §4portal §4de §4saída§0!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/ErebusPortal.png"],
+            "border": "true",
+            "text": "O Portal pode ser feito literalmente com qualquer formato!"
+        }
+    ]
+}

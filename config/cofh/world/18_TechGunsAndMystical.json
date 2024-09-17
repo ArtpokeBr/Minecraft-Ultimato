@@ -1,0 +1,65 @@
+{
+	"dependencies": "techguns",
+	"populate": {
+		"titanium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "techguns:basicore",
+						"metadata": 3,
+						"weight": 90
+					},
+					{
+						"name": "mysticalagriculture:prosperity_ore",
+						"weight": 10
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 9
+			},
+			"cluster-count": 2,
+			"min-height": 4,
+			"max-height": 36,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"prosperity": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "mysticalagriculture:prosperity_ore",
+						"weight": 90
+					},
+					{
+						"name": "techguns:basicore",
+						"metadata": 3,
+						"weight": 10
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 9
+			},
+			"cluster-count": 2,
+			"min-height": 4,
+			"max-height": 36,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Twilight Forest",
+    "icon": "twilightforest:miniature_structure",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "text",
+            "text": "A Twilight é uma dimensão que normalmente se destaca por sua progressão de Bosses, dungeons interessantes e até mesmo uma ambientação muito interessante, porém, no Modpack ela possui algumas coisinhas modificadas!$(br2)A primeira delas é §ca §cprogressão dos bosses§0, que, §cfoi desativada§0! assim, você pode matar qualquer Boss na ordem que desejar!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/TwilightAtmosphere.png"],
+            "border": "true",
+            "text": "Acho que todo mundo já zerou a Twilight alguma vez né?..."
+        },
+        {
+            "type": "spotlight",
+            "item": "astralsorcery:blockcustomore:1",
+            "text": "Uma outra mudança pertinente é a geração de alguns minérios adicionais aqui, como o Minério de StarMetal!$(br2)Então fique atento ao JEI e ao mundo em si pois você pode encontrar alguns minérios interessantes em locais específicos!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/TwilightPortal.png"],
+            "border": "true",
+            "title": "E quanto ao Portal?",
+            "text": "Basta fazer uma poça de água 2x2, rodea-la com flores e droppar um Diamante na poça."
+        }
+    ]
+}

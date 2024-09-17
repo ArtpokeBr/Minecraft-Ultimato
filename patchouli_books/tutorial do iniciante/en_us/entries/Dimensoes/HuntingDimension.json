@@ -1,0 +1,29 @@
+{
+    "name": "Hunting Dimension",
+    "icon": "huntingdim:portal",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "text",
+            "text": "A §2§oHunting dimension§r§0 é uma dimensão simples, totalmente focada em §coferecer Mobs §cAgressivos§0 de forma constante! ou seja, lá é 100% de noite e totalmente escura! perfeita para Mobtraps!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/HuntingDim.png"],
+            "border": "true",
+            "text": "§7§oE Cuidado com o Grue... :)"
+        },
+        {
+            "type": "text",
+            "text": "Depois de muitas dimensões complicadas e que me fizeram ter trabalho de escrever de uma forma que pudesse ser compreendida, provavelmente a última dimensão seria tão complexa quanto as outras, correto?$(br2)Bom, você errou... simplesmente faça uma estrutura de um portal do Nether usando os blocos da Hunting e acenda o Portal usando uma Espada!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/HuntingPortal.png"],
+            "border": "true",
+            "text": "Lembrete: Para entrar no portal, pressione shift!"
+        }
+    ]
+}

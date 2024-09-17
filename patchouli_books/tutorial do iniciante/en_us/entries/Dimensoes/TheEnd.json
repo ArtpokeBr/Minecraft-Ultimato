@@ -1,0 +1,19 @@
+{
+    "name": "End",
+    "icon": "minecraft:end_stone",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": "O The End não foi totalmente alterado neste Modpack também, apenas algumas melhorias assim como o Nether, e essas melhorias incluem: $(br2)$(li)Geração de Minérios similar ao Overworld $(li)E uma região perigosa conhecida como Chaos Island(Fica á 10k blocos da ilha inicial)$(br2)§5E eu preciso explicar sobre §5como ir ao The End?"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/EndOres.png"],
+            "border": "true",
+            "text": "Só não esqueça de matar o dragão primeiro..."
+        }
+    ]
+}

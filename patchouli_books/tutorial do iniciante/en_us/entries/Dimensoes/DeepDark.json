@@ -1,0 +1,19 @@
+{
+    "name": "§kDeep Dark§r ERROR 404",
+    "icon": "extrautils2:compressedcobblestone:6",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "text",
+            "text": "§lESTA PÁGINA É UM BUG!§r$(br)não a leia, é sério!$(br)se você ler isso aqui saberá que a Dimensão §kd§ra Deep §kDark§r do §kExtra§r Utilities existe, e ela é lotada de Mi§knérios§r Raros!$(br2)Não procure saber sobre a §kDeep§r Dark, ela irá revelar apenas mais §lBugs e Problemas§r com o Modpack!"
+        },
+        {
+            "type": "spotlight",
+            "item": "draconicevolution:draconium_ore",
+            "title": "§klAtenção!",
+            "text": "§lERRO NO SISTEMA§k$(br)Minério Totalmente desbalanceado encontrando em Al§ktas§r Concentrações!$(br2)§lNÃO VÁ, REPITO, NÃO VÁ$(br)RISCO DE CONTA§kMINAÇÃO§r POR MODPACK DESBALAN§kCEADO!§r"
+        }
+    ]
+}
